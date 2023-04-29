@@ -1,4 +1,4 @@
-# Anti-Plastic Brigade Charitable Trust
+# Texas Black Music Educators
 
 ## Built With
 
@@ -29,38 +29,4 @@ One of the major reason of “Plastic Pollution” is plastic belongs to non-bio
 
 
 ### Screenshots
-<img src="content/readme/home.png" width="50%"/> <br> 
----
-<img src="content/readme/intiatives1.png" width="33%"/> <br>
----
-<img src="content/readme/intiatives2.png" width="33%"/> <br>
----
-<img src="content/readme/intiatives3.png" width="33%"/> <br>
----
-<img src="content/readme/intiatives4.png" width="33%"/> 
 
-
-
-## Getting Started  <a id="gettingstarted"></a>
-
-#### Step 1:
-
-Download or clone this repository by using the command given below:
-
-```
-git clone https://github.com/dbitsevatech/APBCT.git
-```
-
-#### Step 2:
-
-Go to project root and open the index.html file in the browser
-
-
-
-## Contributors <a id="contributors"></a>
-  - Boris Edison<br> 
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BorisEdison)
-  - Rhea Gupta<br>
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rheagupta31)
-  - Siddharth Dhaigude<br>
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sd8capricon)
