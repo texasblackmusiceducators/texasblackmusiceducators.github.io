@@ -24,7 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a95995d9-fe1c-4f97-9bad-a481db50f9e6" name="Default Changelist" comment="updateing index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682797052653</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="updateing index.html">
+      <created>1682798606884</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682798606884</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,10 +133,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="updateing index.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1682797065543">
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1682798610350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1080.0.1080.1880@0.0.1366.728" timestamp="1682797065543" />
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1080.0.1080.1880@0.0.1366.728" timestamp="1682798610350" />
     <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1682793605403" />
   </component>
 </project>
